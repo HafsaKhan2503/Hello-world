@@ -1,4 +1,5 @@
-let myIntro ="My Name Is Hafsa"
-console.log(myIntro);
-console.log(myIntro);
-console.log(myIntro);
+let amir = "Bring kfc bucket";
+amir = "nihari le ao";
+amir = "aloo qeema";
+console.log(amir)
+console.log(amir)
